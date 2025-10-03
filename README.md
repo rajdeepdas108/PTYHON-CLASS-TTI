@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="ban.png" alt="Typing SVG" />
+  <img src="bann.png" alt="Typing SVG" />
 </p>
 
 ---
