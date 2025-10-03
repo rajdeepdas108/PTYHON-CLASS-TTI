@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=📚+Welcome+to+PYTHON-CLASS-TTI+🐍;🚀+Tracking+My+Python+Learning+Journey+✨;💻+Code+.+Learn+.+Grow+!" alt="Typing SVG" />
+  <img src="ban.png" alt="Typing SVG" />
 </p>
 
 ---
